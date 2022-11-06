@@ -1,12 +1,23 @@
-# https://www.awesomescreenshot.com/video/12271429?key=33f7b092926f9f5289b7bfc21670e05a
+# Michael Pumo
 
-#Michael-Pumo-Website
+## Build Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13822f8f-4555-435e-82cb-33a21f14ec08/deploy-status)](https://app.netlify.com/sites/michaelpumo/deploys)
 
-Abut Him
+## Build Setup
 
-I enjoy working closely with design teams to faithfully translate their designs right down to the last pixel. Daily, you'll find me using modern frontend technologies that bring the creative process to life just as designers intended them to be.
-Technical
-Right now you can find me hacking away primarily with Vue.js, Nuxt.js, Gridsome, Prismic CMS, GraphQL and in general anything JavaScript, HTML and CSS related. Also been known to dabble in React.js and Gatsby from time to time or wrestling with Webpack.
+```bash
+# install dependencies
+$ npm install
 
-Personal
-I grew up in Nottingham and moved to London many years ago. Being half Italian and half British, I try to visit family in Sicily whenever I can to practice (struggling) with the basics of the language.
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
